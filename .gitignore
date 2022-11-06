@@ -1,5 +1,6 @@
 .metadata
 tmp/
+
 *.tmp
 *.bak
 *.swp
